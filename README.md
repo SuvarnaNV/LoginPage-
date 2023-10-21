@@ -61,7 +61,7 @@ public class LoginTest {
         loginPage.enterPassword("your_password");
         loginPage.clickLoginButton();
 
-        // Add assertions and verifications as needed.
+       
     }
 
     @AfterClass
